@@ -10,4 +10,4 @@
 
     <title>Cadastro ONHB</title>
   </head>
-  <body>
+  <body background="res/img/fundo.jpg">
